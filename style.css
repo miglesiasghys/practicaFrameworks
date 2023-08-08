@@ -1,0 +1,34 @@
+.img-1{
+    background-image:url("https://th.bing.com/th/id/R.138f3e91f24acb801f128dbc13fe8a99?rik=WzZ%2fDCjnxBnfmw&riu=http%3a%2f%2fwww.mundogatos.com%2fUploads%2fmundogatos.com%2fImagenesGrandes%2ffotos-de-gatitos-3-2-1.jpg&ehk=qQBhbycJRSYX1yhmvBLy7mqQ0wEMZt0jNDO%2fG36CS3g%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center;
+    background-size: cover;
+    height: 35vh;
+}
+
+.img-2{
+    background-image:url("https://th.bing.com/th/id/R.2c34330ef8ceaaab2f113e37359bee65?rik=K5c%2bhMiXiKhMxA&riu=http%3a%2f%2fwww.mundogatos.com%2fUploads%2fmundogatos.com%2fImagenesGrandes%2ffotos-de-gatitos-0.jpg&ehk=TIEatxgmg0C7sz5moZrsyHi7t802G%2fN50gxwczakSNA%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center;
+    background-size: cover;
+    height: 35vh;
+}
+
+.img-3{
+    background-image:url("https://i.pinimg.com/originals/eb/33/52/eb3352dbb62000ef289e95efd1ecfcd5.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+}
+
+.img-4{
+    background-image:url("https://i.pinimg.com/474x/70/13/eb/7013ebab96f0d6948cfeebb37743a5d8.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 47vh;
+}
+
+.img-5{
+    background-image:url("https://i.pinimg.com/474x/70/13/eb/7013ebab96f0d6948cfeebb37743a5d8.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 47vh;
+}
